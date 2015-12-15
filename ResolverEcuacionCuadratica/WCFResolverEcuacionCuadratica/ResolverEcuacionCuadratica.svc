@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFResolverEcuacionCuadratica.ResolverEcuacionCuadratica" CodeBehind="ResolverEcuacionCuadratica.svc.cs" %>

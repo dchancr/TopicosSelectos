@@ -5,6 +5,13 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolverEcuacionCuadratica.bl", "ResolverEcuacionCuadratica\ResolverEcuacionCuadratica.bl.csproj", "{4EAD4E70-CB97-4691-90CA-48402F6EDD90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFResolverEcuacionCuadratica", "WCFResolverEcuacionCuadratica\WCFResolverEcuacionCuadratica.csproj", "{B98A5188-93A4-44A4-95BC-78AA74CD5887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolverEcuacionCuadratica.Test.Wcf", "ResolverEcuacionCuadratica.Test.Wcf\ResolverEcuacionCuadratica.Test.Wcf.csproj", "{F177D597-F570-47BE-ADBB-9D0A2A6AF6DD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B98A5188-93A4-44A4-95BC-78AA74CD5887} = {B98A5188-93A4-44A4-95BC-78AA74CD5887}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,14 @@ Global
 		{4EAD4E70-CB97-4691-90CA-48402F6EDD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EAD4E70-CB97-4691-90CA-48402F6EDD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EAD4E70-CB97-4691-90CA-48402F6EDD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98A5188-93A4-44A4-95BC-78AA74CD5887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98A5188-93A4-44A4-95BC-78AA74CD5887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98A5188-93A4-44A4-95BC-78AA74CD5887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98A5188-93A4-44A4-95BC-78AA74CD5887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F177D597-F570-47BE-ADBB-9D0A2A6AF6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F177D597-F570-47BE-ADBB-9D0A2A6AF6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F177D597-F570-47BE-ADBB-9D0A2A6AF6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F177D597-F570-47BE-ADBB-9D0A2A6AF6DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

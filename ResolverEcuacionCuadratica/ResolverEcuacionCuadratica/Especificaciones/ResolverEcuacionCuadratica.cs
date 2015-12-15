@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ResolverEcuacionCuadratica
 {
-    class ResolverEcuacionCuadratica
+    public class ResolverEcuacionCuadratica
     {
         public void ResolverLaEcuacionCuadratica(double primerNumero, double segundoNumero, double tercerNumero, ref double primeraRaiz, ref double segundaRaiz)
         {

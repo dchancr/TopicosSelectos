@@ -1,0 +1,2 @@
+curso Implementing Entity Framework with MVC
+https://www.microsoftvirtualacademy.com/en-us/training-courses/implementing-entity-framework-with-mvc-8931?l=32kNaEC3_6604984382

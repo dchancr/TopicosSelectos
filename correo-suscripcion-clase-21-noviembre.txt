@@ -1,0 +1,28 @@
+
+
+De: Armando Luis Nevares [mailto:t-armne@microsoft.com]
+Enviado el: viernes, 30 de octubre de 2015 10:44 a.m.
+Para: Fabiola Maria Montoya Ramirez
+Asunto: RE: Agradecimiento
+
+ 
+
+Buenos días Fabiola,
+
+ 
+
+Podría ser un sábado a las 2:00 pm. En cuanto a equipos, solo necesitamos que las computadoras del laboratorio tengan instalado Visual Studio y SQL Server Management Studio.
+
+Los estudiantes deben llevar activas 2 suscripciones para facilitar el trabajo:
+
+1.       Suscripción de DreamSpark, no la suscripción de la tienda de DreamSpark de la universidad, sino esta: https://www.dreamspark.com/Student/Default.aspx. En este link van a la parte de crear la cuenta que aparece en la parte inferior, se registran con una cuenta de Microsoft (Hotmail, Outlook, etc) y luego siguen los pasos. En la última sección, les pide comprobar la cuenta, para esto utilizan el correo de la universidad y listo.
+
+2.       Suscripción gratuita de Azure: para esto solo necesitan entrar a esta página https://azure.microsoft.com/es-es/ y seguir los pasos.    
+
+Con la primera suscripción vamos a activar algunos beneficios importantes para los estudiantes.
+
+Con la segunda, vamos a trabajar directamente con SQL Server en la nube y lo asociamos a Visual Studio.
+
+ 
+
+Saludos
